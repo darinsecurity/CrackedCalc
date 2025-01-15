@@ -33,4 +33,4 @@ Abides by the constraints within the AP Computer Science course.
 + Extensively documented with a clear state model
   
 ## By the Best Programmers
-Includes a testing file of over 20,000 files to ensure your solution to the project is bullet proof.
+Includes a testing file of over 20,000 examples to ensure your solution to the project is bullet proof.
