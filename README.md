@@ -1,13 +1,14 @@
 <h1 align="left">🚀 CrackedCalc</h1>
 
-<div align="left">
-  <img src="/g7.png" alt="Supporting Graphic" width="200" style="flex-shrink: 0; margin-bottom: 20px;">
-</div>
 <p align="left">
   <img src="https://img.shields.io/badge/Version-1.0-brightgreen" alt="Version Badge">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License Badge">
   <img src="https://img.shields.io/badge/Build-Passing-success" alt="Build Badge">
 </p>
+<div align="left">
+  <img src="/g7.png" alt="Supporting Graphic" width="200" style="flex-shrink: 0; margin-bottom: 20px;">
+</div>
+
 
 <p align="left">
   <strong>
