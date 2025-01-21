@@ -1,4 +1,4 @@
-<h1 align="left">🚀 CrackedCalc</h1>
+<h1 align="left">🚀 CrackedCalc (FracCalc)</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Version-1.0-brightgreen" alt="Version Badge">
