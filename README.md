@@ -13,6 +13,7 @@
 <p align="left">
   <strong>
     <h3>The Best Solution to the Fraction Calculator Problem</h3>
+    Checkout 'FracCalc.java'
   </strong>
 </p>
 
