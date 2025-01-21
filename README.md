@@ -13,8 +13,8 @@
 <p align="left">
   <strong>
     <h3>The Best Solution to the Fraction Calculator Problem</h3>
-    <p>Checkout 'FracCalc.java'</p>
-  </strong>
+  </strong
+  <p>Checkout 'FracCalc.java'</p>
 </p>
 
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
